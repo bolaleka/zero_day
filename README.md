@@ -1,1 +1,1 @@
-** This is my first project**
+__This file is mandatory in projects__
